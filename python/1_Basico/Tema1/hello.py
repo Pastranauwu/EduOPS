@@ -44,4 +44,4 @@ tuple = (2,3,2,3)
 diccionario = {"carro":"chevy", "motor":"xt-2389", "kilometraje":1200}
 
 
-print(diccionario["carro"], diccionario["motor"])
+print("Los valores de las variales son ", entero, decimal, boleano, string, list, tuple, diccionario)
